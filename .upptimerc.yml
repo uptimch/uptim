@@ -1,29 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: uptimch # Your GitHub organization or username, where this repository lives
+repo: uptim # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Tim
+    url: https://www.timvonfelten.ch
+  - name: Blankenburg
+    url: https://blankenburg.ch
+  - name: von Felten
+    url: https://vonfelten.ch
+  - name: Galerie de Grandcour
+    url: https://www.galerie-de-grandcour.ch/
+  - name: MOV Physiotherapie
+    url: https://movphysio.ch
+  - name: Badmintonclub Gstaad
+    url: https://www.badmintonclubgstaad.ch/
+  - name: Erlenhüttli
+    url: https://www.erlenhuettli.ch/de
+  - name: G2021
+    url: https://g2021.ch/
+  - name: Red Monkey Surf
+    url: https://redmonkeysurf.wixsite.com/red-monkey-surf
+  - name: TriTeam Steffisburg
+    url: https://www.tristeffisburg.ch/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /uptim
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: UpTime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
