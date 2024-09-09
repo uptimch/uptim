@@ -23,6 +23,8 @@ sites:
     url: https://redmonkeysurf.wixsite.com/red-monkey-surf
   - name: TriTeam Steffisburg
     url: https://www.tristeffisburg.ch/
+  - name: TROAG
+    url: https://troag.ch/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
