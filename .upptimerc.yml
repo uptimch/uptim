@@ -27,6 +27,10 @@ sites:
     url: https://troag.ch/
   - name: Sache gits
     url: blankenburg.internet-box.ch
+  - name: Sache gts
+    check: "tcp-ping"
+    url: blankenburg.internet-box.ch
+    port: 1194
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
