@@ -76,19 +76,19 @@
     "url": "https://movphysio.ch",
     "icon": "https://icons.duckduckgo.com/ip3/movphysio.ch.ico",
     "slug": "mov-physiotherapie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 988,
-    "timeDay": 756,
-    "timeWeek": 919,
-    "timeMonth": 988,
-    "timeYear": 988,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 992,
+    "timeDay": 957,
+    "timeWeek": 949,
+    "timeMonth": 992,
+    "timeYear": 992,
     "dailyMinutesDown": {
-      "2024-10-06": 0
+      "2024-10-06": 11
     }
   },
   {
