@@ -76,9 +76,9 @@
     "url": "https://movphysio.ch",
     "icon": "https://icons.duckduckgo.com/ip3/movphysio.ch.ico",
     "slug": "mov-physiotherapie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 919,
     "timeMonth": 988,
     "timeYear": 988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-06": 0
+    }
   },
   {
     "name": "Badmintonclub Gstaad",
