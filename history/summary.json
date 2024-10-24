@@ -148,18 +148,20 @@
     "url": "https://redmonkeysurf.wixsite.com/red-monkey-surf",
     "icon": "https://icons.duckduckgo.com/ip3/redmonkeysurf.wixsite.com.ico",
     "slug": "red-monkey-surf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 441,
-    "timeWeek": 220,
-    "timeMonth": 327,
-    "timeYear": 319,
-    "dailyMinutesDown": {}
+    "time": 314,
+    "timeDay": 243,
+    "timeWeek": 198,
+    "timeMonth": 317,
+    "timeYear": 314,
+    "dailyMinutesDown": {
+      "2024-10-24": 0
+    }
   },
   {
     "name": "TriTeam Steffisburg",
