@@ -58,19 +58,19 @@
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 659,
-    "timeWeek": 634,
-    "timeMonth": 600,
-    "timeYear": 580,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 581,
+    "timeDay": 666,
+    "timeWeek": 639,
+    "timeMonth": 603,
+    "timeYear": 581,
     "dailyMinutesDown": {
-      "2024-11-12": 0
+      "2024-11-12": 11
     }
   },
   {
