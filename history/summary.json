@@ -58,18 +58,20 @@
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 478,
-    "timeWeek": 604,
-    "timeMonth": 593,
-    "timeYear": 577,
-    "dailyMinutesDown": {}
+    "time": 580,
+    "timeDay": 659,
+    "timeWeek": 634,
+    "timeMonth": 600,
+    "timeYear": 580,
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "MOV Physiotherapie",
