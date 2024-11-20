@@ -166,18 +166,20 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 426,
-    "timeWeek": 346,
-    "timeMonth": 350,
+    "timeDay": 369,
+    "timeWeek": 340,
+    "timeMonth": 348,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "TROAG",
@@ -202,17 +204,19 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 426,
-    "timeWeek": 346,
-    "timeMonth": 350,
+    "timeDay": 369,
+    "timeWeek": 340,
+    "timeMonth": 348,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   }
 ]
