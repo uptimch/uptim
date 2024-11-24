@@ -76,18 +76,20 @@
     "url": "https://movphysio.ch",
     "icon": "https://icons.duckduckgo.com/ip3/movphysio.ch.ico",
     "slug": "mov-physiotherapie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1165,
-    "timeDay": 801,
-    "timeWeek": 1505,
-    "timeMonth": 1309,
-    "timeYear": 1165,
-    "dailyMinutesDown": {}
+    "time": 1161,
+    "timeDay": 823,
+    "timeWeek": 1439,
+    "timeMonth": 1296,
+    "timeYear": 1161,
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "Badmintonclub Gstaad",
@@ -166,18 +168,20 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 244,
-    "timeWeek": 381,
-    "timeMonth": 340,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 312,
+    "timeDay": 226,
+    "timeWeek": 371,
+    "timeMonth": 338,
+    "timeYear": 312,
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "TROAG",
@@ -202,17 +206,19 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 244,
-    "timeWeek": 381,
-    "timeMonth": 340,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 312,
+    "timeDay": 226,
+    "timeWeek": 371,
+    "timeMonth": 338,
+    "timeYear": 312,
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   }
 ]
