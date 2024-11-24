@@ -76,19 +76,19 @@
     "url": "https://movphysio.ch",
     "icon": "https://icons.duckduckgo.com/ip3/movphysio.ch.ico",
     "slug": "mov-physiotherapie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1161,
-    "timeDay": 823,
-    "timeWeek": 1439,
-    "timeMonth": 1296,
-    "timeYear": 1161,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1168,
+    "timeDay": 1131,
+    "timeWeek": 1467,
+    "timeMonth": 1309,
+    "timeYear": 1168,
     "dailyMinutesDown": {
-      "2024-11-24": 0
+      "2024-11-24": 25
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 226,
-    "timeWeek": 371,
-    "timeMonth": 338,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 313,
+    "timeDay": 283,
+    "timeWeek": 375,
+    "timeMonth": 340,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-11-24": 0
+      "2024-11-24": 25
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 226,
-    "timeWeek": 371,
-    "timeMonth": 338,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 313,
+    "timeDay": 283,
+    "timeWeek": 375,
+    "timeMonth": 340,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2024-11-24": 0
+      "2024-11-24": 25
     }
   }
 ]
