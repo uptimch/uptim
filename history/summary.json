@@ -4,64 +4,70 @@
     "url": "https://www.timvonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.timvonfelten.ch.ico",
     "slug": "tim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 912,
     "timeWeek": 586,
     "timeMonth": 776,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 6
+    }
   },
   {
     "name": "Blankenburg",
     "url": "https://blankenburg.ch",
     "icon": "https://icons.duckduckgo.com/ip3/blankenburg.ch.ico",
     "slug": "blankenburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 583,
     "timeDay": 511,
     "timeWeek": 444,
     "timeMonth": 592,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 4
+    }
   },
   {
     "name": "von Felten",
     "url": "https://vonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/vonfelten.ch.ico",
     "slug": "von-felten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 516,
     "timeWeek": 492,
     "timeMonth": 645,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 3
+    }
   },
   {
     "name": "Galerie de Grandcour",
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 588,
@@ -69,7 +75,9 @@
     "timeWeek": 482,
     "timeMonth": 600,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 2
+    }
   },
   {
     "name": "MOV Physiotherapie",
@@ -96,10 +104,10 @@
     "url": "https://www.badmintonclubgstaad.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.badmintonclubgstaad.ch.ico",
     "slug": "badmintonclub-gstaad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
@@ -107,17 +115,19 @@
     "timeWeek": 455,
     "timeMonth": 612,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 1
+    }
   },
   {
     "name": "Erlenhüttli",
     "url": "https://www.erlenhuettli.ch/de",
     "icon": "https://icons.duckduckgo.com/ip3/www.erlenhuettli.ch.ico",
     "slug": "erlenhuettli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
@@ -125,16 +135,18 @@
     "timeWeek": 598,
     "timeMonth": 810,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 1
+    }
   },
   {
     "name": "G2021",
     "url": "https://g2021.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/g2021.ch.ico",
     "slug": "g2021",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +155,9 @@
     "timeWeek": 471,
     "timeMonth": 724,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 0
+    }
   },
   {
     "name": "Red Monkey Surf",
