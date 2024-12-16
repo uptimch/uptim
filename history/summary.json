@@ -64,11 +64,11 @@
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "89.34%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "89.20%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.89%",
     "time": 632,
     "timeDay": 2331,
@@ -76,7 +76,7 @@
     "timeMonth": 757,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-12-16": 153
+      "2024-12-16": 155
     }
   },
   {
@@ -144,11 +144,11 @@
     "url": "https://g2021.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/g2021.ch.ico",
     "slug": "g2021",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "87.99%",
+    "uptimeDay": "87.97%",
     "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.88%",
     "time": 743,
     "timeDay": 2921,
