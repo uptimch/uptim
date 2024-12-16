@@ -4,11 +4,11 @@
     "url": "https://www.timvonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.timvonfelten.ch.ico",
     "slug": "tim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.89%",
     "time": 715,
     "timeDay": 3498,
@@ -16,7 +16,7 @@
     "timeMonth": 1027,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-12-16": 150
+      "2024-12-16": 155
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://blankenburg.ch",
     "icon": "https://icons.duckduckgo.com/ip3/blankenburg.ch.ico",
     "slug": "blankenburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
     "time": 655,
     "timeDay": 2604,
@@ -36,7 +36,7 @@
     "timeMonth": 838,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2024-12-16": 121
+      "2024-12-16": 125
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://vonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/vonfelten.ch.ico",
     "slug": "von-felten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "90.52%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.33%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.90%",
     "time": 584,
     "timeDay": 498,
@@ -56,7 +56,7 @@
     "timeMonth": 635,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2024-12-16": 137
+      "2024-12-16": 140
     }
   },
   {
@@ -64,11 +64,11 @@
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.91%",
     "time": 633,
     "timeDay": 3231,
@@ -76,7 +76,7 @@
     "timeMonth": 764,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-12-16": 123
+      "2024-12-16": 125
     }
   },
   {
@@ -104,10 +104,10 @@
     "url": "https://www.badmintonclubgstaad.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.badmintonclubgstaad.ch.ico",
     "slug": "badmintonclub-gstaad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.91%",
     "time": 665,
@@ -116,7 +116,7 @@
     "timeMonth": 755,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-12-16": 123
+      "2024-12-16": 125
     }
   },
   {
@@ -124,10 +124,10 @@
     "url": "https://www.erlenhuettli.ch/de",
     "icon": "https://icons.duckduckgo.com/ip3/www.erlenhuettli.ch.ico",
     "slug": "erlenhuettli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "98.57%",
+    "uptimeDay": "89.93%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.90%",
     "time": 827,
@@ -136,7 +136,7 @@
     "timeMonth": 959,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-12-16": 144
+      "2024-12-16": 145
     }
   },
   {
@@ -144,9 +144,9 @@
     "url": "https://g2021.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/g2021.ch.ico",
     "slug": "g2021",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "91.23%",
+    "uptimeDay": "91.22%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.91%",
