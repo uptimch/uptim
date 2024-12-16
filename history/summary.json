@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.timvonfelten.ch.ico",
     "slug": "tim",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "92.82%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.92%",
     "time": 641,
     "timeDay": 912,
     "timeWeek": 586,
     "timeMonth": 776,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-12-16": 103
+      "2024-12-16": 120
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://blankenburg.ch",
     "icon": "https://icons.duckduckgo.com/ip3/blankenburg.ch.ico",
     "slug": "blankenburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.23%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.93%",
     "time": 580,
     "timeDay": 413,
@@ -36,7 +36,7 @@
     "timeMonth": 583,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-12-16": 98
+      "2024-12-16": 101
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://vonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/vonfelten.ch.ico",
     "slug": "von-felten",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
-    "time": 586,
-    "timeDay": 516,
-    "timeWeek": 492,
-    "timeMonth": 645,
-    "timeYear": 586,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
+    "time": 585,
+    "timeDay": 513,
+    "timeWeek": 494,
+    "timeMonth": 640,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2024-12-16": 100
+      "2024-12-16": 114
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "91.97%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
     "time": 588,
     "timeDay": 778,
     "timeWeek": 482,
     "timeMonth": 600,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-12-16": 99
+      "2024-12-16": 116
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.badmintonclubgstaad.ch.ico",
     "slug": "badmintonclub-gstaad",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.15%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.01%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
     "time": 626,
     "timeDay": 482,
     "timeWeek": 455,
     "timeMonth": 612,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-12-16": 99
+      "2024-12-16": 115
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.erlenhuettli.ch.ico",
     "slug": "erlenhuettli",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "93.18%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.92%",
     "time": 783,
     "timeDay": 649,
     "timeWeek": 598,
     "timeMonth": 810,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2024-12-16": 98
+      "2024-12-16": 115
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/g2021.ch.ico",
     "slug": "g2021",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.93%",
     "time": 635,
     "timeDay": 1265,
     "timeWeek": 668,
     "timeMonth": 767,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2024-12-16": 81
+      "2024-12-16": 97
     }
   },
   {
