@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.80%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 672,
     "timeDay": 498,
     "timeWeek": 1498,
@@ -151,11 +151,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/g2021.ch.ico",
     "slug": "g2021",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.66%",
     "uptimeMonth": "98.31%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 735,
     "timeDay": 400,
     "timeWeek": 1637,
@@ -200,7 +200,7 @@
     "time": 312,
     "timeDay": 419,
     "timeWeek": 342,
-    "timeMonth": 317,
+    "timeMonth": 316,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2024-11-24": 25
@@ -211,9 +211,9 @@
     "url": "https://troag.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/troag.ch.ico",
     "slug": "troag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -222,7 +222,9 @@
     "timeWeek": 2012,
     "timeMonth": 2145,
     "timeYear": 2180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-20": 0
+    }
   },
   {
     "name": "TriTeamSteffisburg",
@@ -238,7 +240,7 @@
     "time": 312,
     "timeDay": 419,
     "timeWeek": 342,
-    "timeMonth": 317,
+    "timeMonth": 316,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2024-11-24": 25
