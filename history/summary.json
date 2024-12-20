@@ -211,19 +211,19 @@
     "url": "https://troag.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/troag.ch.ico",
     "slug": "troag",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2180,
-    "timeDay": 1924,
-    "timeWeek": 2012,
-    "timeMonth": 2145,
-    "timeYear": 2180,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2176,
+    "timeDay": 1831,
+    "timeWeek": 1978,
+    "timeMonth": 2132,
+    "timeYear": 2176,
     "dailyMinutesDown": {
-      "2024-12-20": 0
+      "2024-12-20": 20
     }
   },
   {
