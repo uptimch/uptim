@@ -213,9 +213,9 @@
     "url": "https://troag.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/troag.ch.ico",
     "slug": "troag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.20%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -225,6 +225,7 @@
     "timeMonth": 2283,
     "timeYear": 2195,
     "dailyMinutesDown": {
+      "2025-01-25": 0,
       "2025-01-24": 41,
       "2024-12-20": 20
     }
