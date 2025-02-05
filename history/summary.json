@@ -88,10 +88,10 @@
     "url": "https://movphysio.ch",
     "icon": "https://icons.duckduckgo.com/ip3/movphysio.ch.ico",
     "slug": "mov-physiotherapie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1182,
@@ -100,6 +100,7 @@
     "timeMonth": 1228,
     "timeYear": 1182,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2024-11-24": 25
     }
   },
@@ -215,18 +216,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/troag.ch.ico",
     "slug": "troag",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.88%",
+    "uptimeDay": "86.04%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.88%",
     "time": 2336,
     "timeDay": 2881,
     "timeWeek": 5360,
     "timeMonth": 2974,
     "timeYear": 2336,
     "dailyMinutesDown": {
-      "2025-02-05": 70,
+      "2025-02-05": 201,
       "2025-01-24": 41,
       "2024-12-20": 20
     }
