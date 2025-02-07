@@ -4,11 +4,11 @@
     "url": "https://www.timvonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.timvonfelten.ch.ico",
     "slug": "tim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.66%",
     "time": 739,
     "timeDay": 848,
@@ -16,6 +16,7 @@
     "timeMonth": 596,
     "timeYear": 739,
     "dailyMinutesDown": {
+      "2025-02-07": 3,
       "2024-12-17": 499,
       "2024-12-16": 234
     }
@@ -25,11 +26,11 @@
     "url": "https://blankenburg.ch",
     "icon": "https://icons.duckduckgo.com/ip3/blankenburg.ch.ico",
     "slug": "blankenburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.66%",
     "time": 630,
     "timeDay": 770,
@@ -37,6 +38,7 @@
     "timeMonth": 583,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2025-02-07": 2,
       "2024-12-17": 529,
       "2024-12-16": 202
     }
@@ -46,10 +48,10 @@
     "url": "https://vonfelten.ch",
     "icon": "https://icons.duckduckgo.com/ip3/vonfelten.ch.ico",
     "slug": "von-felten",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 660,
@@ -58,6 +60,7 @@
     "timeMonth": 588,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2025-02-07": 2,
       "2024-12-17": 499,
       "2024-12-16": 216
     }
@@ -67,10 +70,10 @@
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 650,
@@ -79,6 +82,7 @@
     "timeMonth": 604,
     "timeYear": 650,
     "dailyMinutesDown": {
+      "2025-02-07": 2,
       "2024-12-17": 499,
       "2024-12-16": 226
     }
@@ -96,7 +100,7 @@
     "uptimeYear": "99.94%",
     "time": 1190,
     "timeDay": 1753,
-    "timeWeek": 1301,
+    "timeWeek": 1286,
     "timeMonth": 1244,
     "timeYear": 1190,
     "dailyMinutesDown": {
@@ -109,10 +113,10 @@
     "url": "https://www.badmintonclubgstaad.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.badmintonclubgstaad.ch.ico",
     "slug": "badmintonclub-gstaad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 692,
@@ -121,6 +125,7 @@
     "timeMonth": 565,
     "timeYear": 692,
     "dailyMinutesDown": {
+      "2025-02-07": 1,
       "2024-12-17": 528,
       "2024-12-16": 216
     }
@@ -130,10 +135,10 @@
     "url": "https://www.erlenhuettli.ch/de",
     "icon": "https://icons.duckduckgo.com/ip3/www.erlenhuettli.ch.ico",
     "slug": "erlenhuettli",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 853,
@@ -142,6 +147,7 @@
     "timeMonth": 760,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2025-02-07": 1,
       "2024-12-17": 527,
       "2024-12-16": 217
     }
@@ -151,10 +157,10 @@
     "url": "https://g2021.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/g2021.ch.ico",
     "slug": "g2021",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 690,
@@ -163,6 +169,7 @@
     "timeMonth": 571,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2025-02-07": 1,
       "2024-12-17": 499,
       "2024-12-16": 241
     }
@@ -215,9 +222,9 @@
     "url": "https://troag.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/troag.ch.ico",
     "slug": "troag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.56%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.86%",
@@ -227,6 +234,7 @@
     "timeMonth": 2934,
     "timeYear": 2330,
     "dailyMinutesDown": {
+      "2025-02-07": 0,
       "2025-02-05": 246,
       "2025-01-24": 41,
       "2024-12-20": 20
