@@ -194,10 +194,10 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
     "time": 430,
@@ -206,6 +206,7 @@
     "timeMonth": 544,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2025-03-03": 1,
       "2025-02-05": 57,
       "2025-01-21": 92,
       "2024-11-24": 25
@@ -225,7 +226,7 @@
     "time": 2656,
     "timeDay": 2455,
     "timeWeek": 4553,
-    "timeMonth": 4017,
+    "timeMonth": 4072,
     "timeYear": 2656,
     "dailyMinutesDown": {
       "2025-02-26": 34,
@@ -241,10 +242,10 @@
     "url": "https://www.tristeffisburg.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tristeffisburg.ch.ico",
     "slug": "tri-team-steffisburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.93%",
     "time": 430,
@@ -253,6 +254,7 @@
     "timeMonth": 544,
     "timeYear": 430,
     "dailyMinutesDown": {
+      "2025-03-03": 1,
       "2025-02-05": 57,
       "2025-01-21": 92,
       "2024-11-24": 25
