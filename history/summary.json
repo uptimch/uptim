@@ -67,10 +67,10 @@
     "url": "https://www.galerie-de-grandcour.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.galerie-de-grandcour.ch.ico",
     "slug": "galerie-de-grandcour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 645,
@@ -79,6 +79,7 @@
     "timeMonth": 585,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2025-06-05": 1,
       "2024-12-17": 499,
       "2024-12-16": 226
     }
@@ -109,10 +110,10 @@
     "url": "https://www.badmintonclubgstaad.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/www.badmintonclubgstaad.ch.ico",
     "slug": "badmintonclub-gstaad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 652,
@@ -121,6 +122,7 @@
     "timeMonth": 564,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2025-06-05": 1,
       "2024-12-17": 528,
       "2024-12-16": 216
     }
@@ -196,7 +198,7 @@
     "slug": "tri-team-steffisburg",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -206,7 +208,6 @@
     "timeMonth": 766,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-06-05": 0,
       "2025-05-12": 21,
       "2025-03-07": 20,
       "2025-03-03": 39,
@@ -255,7 +256,7 @@
     "slug": "tri-team-steffisburg",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -265,7 +266,6 @@
     "timeMonth": 766,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-06-05": 0,
       "2025-05-12": 21,
       "2025-03-07": 20,
       "2025-03-03": 39,
