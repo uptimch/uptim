@@ -1,7 +1,7 @@
 url: https://troag.ch/
-status: up
-code: 200
-responseTime: 1641
-lastUpdated: 2025-07-14T23:09:32.818Z
+status: down
+code: 502
+responseTime: 1146
+lastUpdated: 2025-07-15T09:37:48.000Z
 startTime: 2024-09-09T12:42:25.826Z
 generator: Upptime <https://github.com/upptime/upptime>
